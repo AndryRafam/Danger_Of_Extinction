@@ -3,7 +3,7 @@
 This little repository is about building Deep Learning models in order to classify / detect threatned species.
 Dataset is available here: https://www.kaggle.com/brsdincer/danger-of-extinction-animal-image-set
 
-### In this project, we are using transfer learning techniques instead of building a model from sracth.
+### In this project, we are using transfer learning techniques instead of building a model from scratch.
 
 ## Result
 
